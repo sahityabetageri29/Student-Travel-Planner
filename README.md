@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/d37bfdc8-e214-427d-b426-205d8069172b
 
 ## 🚀 Getting Started
 
-### Prerequisites
+### Prerequisites..
 - Node.js (v16.0.0 or higher)
 - npm or yarn
 - Anthropic API Key (for the AI Planner)
@@ -48,3 +48,8 @@ https://github.com/user-attachments/assets/d37bfdc8-e214-427d-b426-205d8069172b
    ```bash
    git clone [https://github.com/yourusername/wanderstudent.git](https://github.com/yourusername/wanderstudent.git)
    cd wanderstudent
+
+
+### Made with Claude 🧠
+
+<img width="480" height="480" alt="ClaudeGIF" src="https://github.com/user-attachments/assets/6e2b88f4-55a9-4476-8183-580d54969b1a" />
